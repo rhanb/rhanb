@@ -1,4 +1,3 @@
-# rhanb
 ### Senior Fullstack & AI Engineer based in Paris 🇫🇷
 
 I am a software engineer with **8+ years of experience**, specializing in bridging the gap between robust Fullstack architecture (TypeScript) and modern AI Agentic workflows.
