@@ -25,6 +25,6 @@ I build production-grade applications, moving beyond simple API wrappers to engi
 
 I help companies validate AI products and scale engineering teams.
 
-- 🌐 **LinkedIn:** [linkedin.com/in/aniel-jean-baptiste](https://www.linkedin.com/in/aniel-jean-baptiste/)
+- 🌐 **LinkedIn:** [linkedin.com/in/aniel-jean-baptiste](https://www.linkedin.com/in/jean-baptiste-aniel-185abb97/)
 - 📧 **Email:** aniel.jeanbaptiste@gmail.com
 - 📍 **Location:** Paris, France (Open to Remote/Hybrid)
