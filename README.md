@@ -1,29 +1,22 @@
-### Senior Fullstack & AI Engineer based in Paris 🇫🇷
-
-I am a software engineer with **8+ years of experience**, specializing in bridging the gap between robust Fullstack architecture (TypeScript) and modern AI Agentic workflows.
-
-Formerly **Engineering Leader @Stuart** and **Senior Engineer @Notae AI**.
-Currently open for **Freelance / Contract** opportunities (Remote or Hybrid Paris).
+Hi, I'm Jean-Baptiste ([rhanb](rhanb.com)).
+I'm a freelance Senior Fullstack Engineer with 8+ years of experience. I help companies build and ship production-grade AI products.
 
 ---
 
-### 🛠 The Stack
-
-I build production-grade applications, moving beyond simple API wrappers to engineer scalable, observable AI systems.
+### Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI Engineering** | **Vercel AI SDK**, **MCP (Model Context Protocol)**, Langfuse, OpenAI/Anthropic APIs, RAG Architectures |
-| **Core Backend** | **Node.js**, **Bun.js**, TypeScript, PostgreSQL, GraphQL, OpenAPI |
-| **Frontend** | React, **Next.js**, Tailwind, React Query |
-| **DevOps & Cloud** | Docker, Kubernetes, AWS, GitHub Actions CI/CD |
+| **AI Engineering** | **Vercel AI SDK**, **MCP (Model Context Protocol)**, LLMs, Langfuse, RAG Architectures, Agentic workflows |
+| **Core Backend** | **Node.js**, **Bun.js**, Express, Elysia, TypeScript, Prisma, Drizzle, TypeORM, Sequelize, PostgreSQL, MySQL, GraphQL, OpenAPI |
+| **Frontend** | React, Tailwind, React Query, React Router, Remix |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, GitHub Actions CI/CD, ArgoCD, Coolify, Jenkins, GCP |
+| **Testing & Observability** | Jest, Bun, K6, Sentry, Datadog, Grafana, Cloudwatch, Axiom |
 
 ---
 
-### 💼 Contact
+### Contact
 
-I help companies validate AI products and scale engineering teams.
-
-- 🌐 **LinkedIn:** [linkedin.com/in/aniel-jean-baptiste](https://www.linkedin.com/in/jean-baptiste-aniel-185abb97/)
-- 📧 **Email:** aniel.jeanbaptiste@gmail.com
-- 📍 **Location:** Paris, France (Open to Remote/Hybrid)
+- **LinkedIn:** [linkedin.com/in/aniel-jean-baptiste](https://www.linkedin.com/in/jean-baptiste-aniel-185abb97/)
+- **Email:** aniel.jeanbaptiste@gmail.com
+- **Location:** Paris, France (Open to Remote/Hybrid)
