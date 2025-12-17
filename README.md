@@ -1,4 +1,4 @@
-Hi, I'm Jean-Baptiste ([rhanb](rhanb.com)).
+Hi, I'm Jean-Baptiste ([rhanb](https://rhanb.com)).
 I'm a freelance Senior Fullstack Engineer with 8+ years of experience. I help companies build and ship production-grade AI products.
 
 ---
