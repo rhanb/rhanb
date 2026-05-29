@@ -1,4 +1,4 @@
-Hi, I'm Jean-Baptiste ([rhanb](https://rhanb.com)).
+Hi, I'm Jean-Baptiste ([rhanb](https://consulting.rhanb.com)).
 I'm a AI Product Engineer for SaaS & AI · I help SaaS vendors and startups go from prototype to production-ready product
 
 ---
